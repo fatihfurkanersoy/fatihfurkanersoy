@@ -36,7 +36,7 @@ I'm a final year undergraduate student in Electric Electronic Engineering at Kon
 I'm Chairman of the Board of the Artificial Intelligence and Image Processing Community, known as [YAZGİT](https://yazgit.com/) at my university and has 250 members.
 ## Career✨
 - Kutar Information and Software Technologies - Hardware and Software Engineer 2020 September / 2021 September
-    - For detailed information about my projects, please click on [my website](https://fatihfurkan.com/).
+    - For detailed information about my projects, please click on [my website](https://ffurkan.com/).
 - TCDD - Intern 2014 / 2018
 ## Education✨
 - Konya Tecnical University - Electric Electronic Engineering 2018 - present
