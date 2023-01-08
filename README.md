@@ -35,12 +35,13 @@ Here are some ideas to get you started:
 I'm a final year undergraduate student in Electric Electronic Engineering at Konya Technical University.
 I'm Chairman of the Board of the Artificial Intelligence and Image Processing Community, known as [YAZGİT](https://yazgit.com/) at my university and has 250 members.
 ## Career✨
-- Kutar Information and Software Technologies - Hardware and Software Engineer 2020 September / present
-    - For detailed information about my projects, please click on [my website](https://ffurkan.com/).
-- TCDD - Intern 2014 / 2018
+- ORTANA - Embedded Software Engineer 2022 November / present
+- Kutar Information and Software Technologies - Hardware and Embedded Software Engineer 2020 September / 2022 September
+- TCDD - Intern 2020 / 2020
 ## Education✨
 - Konya Tecnical University - Electric Electronic Engineering 2018 - 2022
     - [YAZGİT](https://yazgit.com/) / CEO
     - Team Lead at YAZGİT BARBAROV (Underwater Vehicle)
 - Elvankent Bilgi Anatolian High School - Math - Science 2014 - 2018
     - Erasmus / Romania- Bucharest
+## For detailed information about my projects, please click on [my website](https://ffurkan.com/).
