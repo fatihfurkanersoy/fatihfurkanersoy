@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 I'm a final year undergraduate student in Electric Electronic Engineering at Konya Technical University.
 I'm Chairman of the Board of the Artificial Intelligence and Image Processing Community, known as [YAZGİT](https://yazgit.com/) at my university and has 250 members.
 ## Career✨
-- ORTANA - Embedded Software Engineer 2022 November / present
+- Ortana Electronic Software - Embedded Software Engineer 2022 November / present
 - Kutar Information and Software Technologies - Hardware and Embedded Software Engineer 2020 September / 2022 September
 - TCDD - Intern 2020 / 2020
 ## Education✨
